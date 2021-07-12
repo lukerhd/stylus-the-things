@@ -1,0 +1,216 @@
+@-moz-document domain("app.circleci.com") {
+html,
+.css-wv6pb0 {
+    background: #000;
+}
+.css-brkvkb {
+    background: #222;
+}
+.css-qemf89,
+nav.css-xxqlwk > div, 
+nav.css-xxqlwk > div a,
+nav.css-1kexf7t > div,
+nav.css-1kexf7t > div a,
+.css-1mfl3ss,
+.css-1mfl3ss a {
+    background: #0e0839;
+    color: rgb(53, 149, 220);
+}
+.css-1t36hu4,
+.css-1w8vmd3,
+.css-2oaio9,
+.css-1uc69qm,
+.css-1t4w0ul {
+    color: rgb(53, 149, 220);
+}
+.css-178cg5w a:hover,
+.css-178cg5w:hover svg {
+    color: rgb(225, 225, 225);
+}
+.css-1l6rht7,
+.css-1p4cmro button,
+ul.css-l6uz6m,
+.css-n8euau button,
+.css-evj1nw {
+    background: rgb(53, 149, 220);
+    color: white;
+}
+.css-1l6rht7:hover,
+.css-1p4cmro button:hover,
+.css-n8euau button:hover,
+.css-evj1nw:hover {
+    background: rgb(88, 182, 251);
+}
+.css-18sgqn9 svg,
+span.css-unva6k {
+    color: #ff00fc;
+}
+.css-ld3dfo:hover .css-1afphor {
+    color: white;
+}
+.css-6lqcpo,
+.css-26aoo8,
+.css-2n7nab {
+    background: #0e0839;
+}
+.css-6lqcpo a,
+.css-2n7nab {
+    color: rgb(53, 149, 220);
+}
+.css-6hz6ij button:focus:enabled,
+.css-6hz6ij button {
+    background: #080520;
+    color: rgb(53, 149, 220);
+    border-color: rgb(53, 149, 220);
+}
+.css-6hz6ij button.css-habrw7 {
+    background: rgb(53, 149, 220)!important;
+}
+.css-6hz6ij button.css-habrw7:hover {
+    background: rgb(88, 182, 251);
+    color: #000;
+}
+.css-6hz6ij input {
+    background: #000;
+    color: white;
+}
+.css-6lqcpo a:hover,
+.css-6hz6ij li[aria-selected="true"] {
+    background: #000!important;
+}
+.css-1dhr9ju {
+    background: #000;
+    color: #fff;
+}
+ul.css-l6uz6m {
+    padding: 0;
+}
+.css-1ga691w{
+    background: #0e0839;
+}
+a.css-fhv0qb:hover,
+.css-1mfl3ss a:hover {
+    background-color: #241d52;
+}
+.css-1urmonw {
+    color: #00ff10;
+}
+.css-19n6s7n > div,
+.css-19n6s7n > div > div > div,
+.css-19n6s7n > div > div > div > div,
+.css-1yqs9k4,
+.css-1mfl3ss a {
+    color: #fff;
+    font-weight: 600;
+}
+.css-11mm2y1 ol li a:hover,
+.css-f933k3:hover,
+.css-29jvt7:hover,
+.css-15jeavq:hover,
+.css-1ioc2bt:hover {
+    color: #fff!important;
+}
+.css-29jvt7:hover,
+.css-15jeavq:hover,
+.css-1ioc2bt:hover {
+    text-decoration: underline;
+}
+.css-zvpfs2,
+h1 {
+    color: #fff!important;
+}
+.css-qemf89 {
+    border-color: #333
+}
+/* table stuff */
+.css-brkvkb,
+.css-mdb45b,
+.css-1ayxn9d {
+    background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2) ),rgba(0, 0, 0, 0) url("https://www.toptal.com/designers/subtlepatterns/patterns/moroccan-flower-dark.png") repeat scroll 0% 0%!important;
+    color: white;
+}
+.css-zdqqs5,
+.css-1l88zv2,
+.css-vomqi5,
+.css-13p9f20,
+.css-1s2e36s {
+    color: #999;
+    font-weight: 600
+}
+/* Main job listing table */
+.css-16ffcvy,
+.css-1bfdof4,
+.css-1rq64aq,
+.css-2yhzaf,
+.css-p4zkpl,
+.css-1k6gshn,
+.css-mdb45b > div {
+    background: #080520;
+    border-color: #666;
+    color: white;
+}
+.css-1kr6wmo > p,
+.css-2kflhe{
+    color: rgb(186, 186, 186);
+}
+span.css-unva6k {
+    font-weight: 600;
+}
+.css-16ffcvy a,
+.css-1bfdof4 a,
+.css-1ioc2bt,
+.css-8e69mn,
+.css-gq48mf {
+    color: white;
+    font-weight: 600
+}
+.css-1ymtjhb:hover,
+.css-lq4vff:hover  {
+    background: #080520;
+    color: white;
+}
+.css-8nbze1:hover,
+.css-2yhzaf:hover {
+    background-color: #140c56d4;
+}
+.css-1ymtjhb {
+    background-color: rgba(53, 149, 220, .43);
+}
+ul button {
+    background-color: #333!important;
+    color: #fff!important;
+}
+.css-1d3dyg9,
+.css-1v0auz9 {
+    background: black;
+    color: white;
+}
+.css-1v0auz9:hover {
+    background: #140c56d4;
+}
+/* Hover on workflow items */
+.css-1yq4i5r:hover,
+.css-1bfgcsm:hover,
+.css-ld3dfo:hover {
+    background-color: rgb(0, 60, 105);
+    border-radius: 17px;
+}
+.css-r1lpz5 span {
+    background-color: rgba(53, 149, 220, 1);
+    border-radius: 17px;
+}
+.css-r1lpz5 span:nth-child(3) {
+    background: rgb(242, 70, 70);
+    border-radius: 17px;
+}
+.css-r1lpz5 span path {
+    fill: #fff;
+}
+.css-1p0e7do:disabled path {
+    fill: #000;
+}
+/* Behat comments */
+.css-1ga691w .ansi-black {
+    color: #7b8eff;
+}
+}

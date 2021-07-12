@@ -1,0 +1,218 @@
+@-moz-document domain("dashboard.pantheon.io") {
+/* GLOBAL */
+html,
+body {
+    background: #111d2e;
+    color: #666;
+    border: none;
+}
+h3 {
+    color: #666;
+}
+.btn-default,
+a.btn-default {
+    color: #666 !important;
+    background-color: #111d2e;
+    border-color: #111d2e;
+}
+.btn-default:hover,
+a.btn-default:hover {
+    background-color: #161b22;
+    border-color: #222;
+}
+.btn-default.btn-login {
+    background-color: #ff15e2;
+    color: black!important;
+}
+#auth0login {
+    background-color: #47093f;
+    color: #f368eb;
+    border-color: black
+}
+/* Header */
+.css-1ief8dm-navbar-Navbar {
+    background: #111d2e;
+}
+.workshop .workshop-header-wrapper {
+    background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2) ),rgba(0, 0, 0, 0) url("https://www.toptal.com/designers/subtlepatterns/patterns/moroccan-flower-dark.png") repeat scroll 0% 0%;
+    border: none;
+    color: white;
+}
+.css-vq0u6b-drupalIconColor {
+    color: #ff15e2;
+}
+/* Main navigation */
+.workshop .workshop-nav ul li,
+.workshop .workshop-header-wrapper button {
+    background-color: rgba(0,0,0,.5);
+    color: #58a6ff !important;
+}
+.workshop .workshop-nav ul li a {
+    color:#c0c0c0;
+}
+/* LHS NAV */
+.environment-tools-nav a {
+    color:#898989;
+}
+.workspace-region-wrapper,
+.workshop .workshop-nav ul li.active > a,
+.c-environment-tools-subnav-link:hover,
+#workflows-popover,
+#workflows-popover .popover-content,
+#workflows-popover .popover-content * {
+    background: #0d1117;
+}
+#workflows-popover,
+#workflows-popover .popover-content,
+#workflows-popover .popover-content *,
+.popover,
+.popover .popover-content,
+.popover .popover-content *{
+    background: #111d2e;
+    border-color: black;
+    color: #58a6ff7a;
+}
+#workflows-popover .popover-content * {
+    border-color: #58a6ff !important;
+}
+.popover input {
+    background: black !important;
+}
+.popover a.btn,
+.popover a.btn *,
+#workflow-view button {
+    background: #58a6ff;
+    color: #fff !important;
+}
+
+/* DROP DOWN MENUS (MULTIDEV etc) */
+.popover-content input {
+    margin-top: 1rem;
+}
+.popover.dropdown .popover-inner .popover-content .static-links a,
+.popover.dropdown .popover-inner .popover-content .static-links li {
+    color: #58a6ff;
+    font-weight: bold;
+}
+
+.popover.dropdown .popover-inner .popover-content ul li a:hover,
+.popover.dropdown .popover-inner .popover-content li:hover,
+.popover.dropdown .popover-inner .popover-content li:hover a,
+.popover.dropdown .popover-inner .popover-content li.selected,
+.popover.dropdown .popover-inner .popover-content li.selected a,
+.popover.dropdown .popover-inner .popover-content li.selected:hover {
+    background: rgb(13, 17, 23) !important;
+    color: #fff;
+}
+
+.workshop .workshop-nav ul li.active > a,
+ul.environment-tools-nav li.active :last-child,
+ul.environment-tools-nav li.active {
+    color: #fff !important;
+}
+.workshop .workshop-nav ul li.active > a:hover,
+.workshop .workshop-nav ul li.active > a:hover::after {
+    background: #111d2e;
+}
+.workshop .workshop-nav ul li.active > a::after {
+    border-color: #222;
+}
+ul.environment-tools-nav {
+    border: none;
+}
+ul.environment-tools-nav li {
+    border-left-color: #333;
+    border-right: none;
+}
+ul.environment-tools-nav li.active {
+    border-left-color: #0a6bb5;
+}
+ul.environment-tools-nav li a {
+    background: #111d2e;
+}
+#code > div > div > div > div {
+    background: #111d2e;
+    color: #888;
+    border-top-color: #111;
+    border-right-color: #111;
+    border-bottom-color: #111
+}
+.css-1uu2j6v-textLightGray,
+.css-1egq07z-marginBig-textLightGray-UpstreamCommit {
+    color: #666
+}
+.workshop .workshop-nav ul li > a,
+.workshop .workshop-nav ul li > a:hover {
+    border: none;
+}
+.workspace-region-separator {
+    border-color: #111;
+}
+div.blockUI.blockOverlay {
+    background: blue!important;
+}
+li.media,
+div#deploys div.deploy {
+    background: #051d0a;
+    color: #008f1e;
+    border-color: #111;
+}
+.popover.bottom > div.arrow::after {
+    border-bottom-color: #051d0a !important;
+}
+div#deploys div.deploy pre {
+    background: #000;
+    border-color: #111;
+}
+/* TABLES */
+.table > thead > tr > th,
+.table > thead > tr > td,
+.table > tbody > tr > th,
+.table > tbody > tr > td,
+.table > tfoot > tr > th,
+.table > tfoot > tr > td {
+    border-color: #111;
+}
+/* MULTIDEV ENV PAGE */
+.multidev-workspace {
+    min-height: 600px;
+}
+.branches-overview .grey-box {
+    background: #222
+}
+.branches-overview table tr,
+.branches-overview table tr td,
+.branches-overview table tr td {
+    background: #030318;
+    border-color: #111;
+}
+.branches-overview table tr:nth-child(2n+1),
+.branches-overview table tr:nth-child(2n+1) td,
+.branches-overview table tr:nth-child(2n+1) td:nth-child(2n) {
+    background: #111;
+    border-color: #111;
+}
+button.js-delete-branch {
+    background: red;
+}
+button.js-create-environment,
+button.js-fork-new-environment {
+    background: #008f1e;
+    color: white !important;
+}
+ul.building-environments li {
+    background: #051d0a;
+    color: #008f1e;
+    border-color: #111;
+}
+.progress {
+    background: black;
+}
+.progress-bar.active.progress-bar-striped {
+    background: #008f1e !important;
+}
+/* Deploy message */
+.blockUI.blockMsg.blockElement {
+    background: black;
+}
+}
