@@ -213,4 +213,11 @@ ul button {
 .css-1ga691w .ansi-black {
     color: #7b8eff;
 }
+/* Job console pages */
+.css-cdzwli {
+    background: #000;
+}
+.css-cdzwli pre {
+    color: #00ff13;
+}
 }
