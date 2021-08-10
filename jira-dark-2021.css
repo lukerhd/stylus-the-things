@@ -23,4 +23,10 @@ img, svg, iframe, .emoji-common-emoji-sprite {
 [data-testid="Content"] > div:first-child {
     background: white;
 }
+.ghx-sprint-group {
+    border: 5px solid red;
+}
+.ghx-backlog-group {
+    border: 5px solid #115099;
+}
 }
